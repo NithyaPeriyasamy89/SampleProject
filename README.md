@@ -1,3 +1,3 @@
 # SampleProject
 
-this project aims to count words in given paragraph
+This project aims to count words in given paragraph
